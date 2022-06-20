@@ -131,6 +131,11 @@ Content-type: application/json
   },
   "discoverySettings": {
     "showInTeamsSearchAndSuggestions": true
+  },
+  "summary": {
+    "ownersCount": 2,
+    "membersCount": 3,
+    "guestsCount": 4,
   }
 }
 ```
